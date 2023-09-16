@@ -1,7 +1,5 @@
 # CustomerChurn
 
-![a](https://github.com/Omar-1199/CustomerChurn/assets/82252907/635c3bec-d26f-41fe-875f-152492c39403)
-
 Customer churn is a major problem and one of the top issues for big businesses.
 Customers in the telecom industry can actively switch between operators and have
 access to a wide range of service providers. Customer retention has now surpassed
